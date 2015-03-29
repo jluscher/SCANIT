@@ -1,0 +1,6 @@
+#F8E2CD - tan background
+#FFE97F - yellow On-background
+
+#0FE625 - green On-strong
+#A0A0A0 - gray  Off
+
